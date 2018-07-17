@@ -1,0 +1,19 @@
+{
+  "name": "nodemongoexpress",
+  "version": "1.0.0",
+  "description": "for learning",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scoobek/NodeJSExpressMongo.git"
+  },
+  "author": "Scoobek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scoobek/NodeJSExpressMongo/issues"
+  },
+  "homepage": "https://github.com/Scoobek/NodeJSExpressMongo#readme"
+}
